@@ -1,2 +1,4 @@
 # ml
-머신러닝 코드조각
+
+- [Label Encoding](/label-encoding.ipynb)
+- [t-test](/t-test.ipynb)
